@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/kotlin/Ultimate_password/app/src/main/res/layout/activity_guess.xml" value="0.33" />
         <entry key="..\:/kotlin/Ultimate_password/app/src/main/res/layout/activity_main.xml" value="0.4520547945205479" />
+        <entry key="..\:/kotlin/Ultimate_password/app/src/main/res/layout/fragment_blank.xml" value="0.2015625" />
+        <entry key="..\:/kotlin/Ultimate_password/app/src/main/res/layout/guess.xml" value="0.20520833333333333" />
       </map>
     </option>
   </component>
